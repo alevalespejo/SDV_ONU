@@ -56,7 +56,6 @@ PCA, UMAP, clustering and the network use the **172 states present in at least 7
 | `codice/atto4_dashboard.py` | Data of the interactive dashboard (172 country profiles). |
 | `codice/atto5_chiusura.py` | Part 5, answer: key numbers, what the analysis establishes and what it does not. |
 | `codice/extra_visualizzazioni.py`, `figura_rete.py`, `figure_aggiuntive.py` | Map of who follows China, typical vote, UMAP map, clusters-to-network bridge, appendix charts. |
-| `codice/traduzioni.py` | English text of the charts, used with `FIG_EN=1`. |
 | `codice/esegui_tutto.py` | Runs all of the above in order. |
 | `codice/figure_slide/` | The charts redrawn for the deck, one script per slide, plus `base.py` and `numeri_slide.py` (numbers quoted on slides 3, 29 and 33). |
 | `fonts/` | Inter font used in the charts (SIL Open Font License). |
